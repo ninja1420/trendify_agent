@@ -20,7 +20,7 @@ An AI-powered fashion assistant that provides personalized style advice, trend i
 1. **Clone the Repository**
 ```sh
 git clone <repository-url>
-cd chatbot_agentic
+cd TRENDIFY_AGENT
 ```
 
 2. **Install Dependencies**
